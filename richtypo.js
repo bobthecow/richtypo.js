@@ -43,9 +43,9 @@ var commonRules = {
 	// Hanging punctuation
 	_hanging_table: {
 		'«': 'laquo',
-		'„': 'laquo',
-		'“': 'laquo',
-		'‘': 'laquo',
+		'„': 'bdquo',
+		'“': 'ldquo',
+		'‘': 'lsquo',
 		'(': 'brace',
 	},
 	hanging: [
